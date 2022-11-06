@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device herolte
+%define device hero2lte
 %define vendor samsung
 
 %define vendor_pretty Samsung
-%define device_pretty Galaxy S7
+%define device_pretty Galaxy S7 Edge
 
 %define installable_zip 1
 
